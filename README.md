@@ -1,6 +1,8 @@
 ![header](https://github.com/Ryanb021/Ryanb021/blob/main/header.png)
 ### Hi there 👋
 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/)
+- ⚡ Fun fact: I can hoop, I can sing, I play Tekken online. let's spar!
 <!--
 **Ryanb021/Ryanb021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
