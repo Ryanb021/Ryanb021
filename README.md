@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I can hoop, I can sing, I play Tekken online. let's spar!
+- ⚡ Fun fact: I can hoop, I can sing, I play Tekken online. Let's spar!
 -->
 
 ![banner (1)](https://user-images.githubusercontent.com/120413183/229614982-f09677ad-5ba2-4c9b-a8eb-638d1d5005ba.png)
