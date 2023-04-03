@@ -1,5 +1,5 @@
 ![header](https://github.com/Ryanb021/Ryanb021/blob/main/header.png)
-### Hi there 👋
+### Let's be friends! 👋
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/)
 - ⚡ Fun fact: I can hoop, I can sing, I play Tekken online. let's spar!
