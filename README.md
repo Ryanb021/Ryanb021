@@ -28,8 +28,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-![Counter](https://komarev.com/ghpvc/?username=Ryanb021)
-
-![Named Color](https://komarev.com/ghpvc/?username=Ryanb021&color=blue)
-
 ![Styles](https://komarev.com/ghpvc/?username=Ryanb021&label=PROFILE+VIEWS)
