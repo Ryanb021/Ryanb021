@@ -2,13 +2,11 @@
 
 ![Styles](https://komarev.com/ghpvc/?username=Ryanb021&label=PROFILE+VIEWS)
 
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
 ![Maintainer](https://img.shields.io/badge/maintainer-Batman-blue)
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 ### Let's be friends! 👋
 
