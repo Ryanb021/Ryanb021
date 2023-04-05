@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 ## Skills and Tools
 
-
+<p align="left"> <img src="https://github.com/Ryanb021/portfolio-prep/blob/main/img/coding.png alt="html" width="40" height="40"/></p>
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryanb021&theme=neon-dark)](https://git.io/streak-stats)
 
 [![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanb021&theme=blue-green)](https://github.com/Ryanb021/github-readme-stats)
