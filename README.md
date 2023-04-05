@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Skills and Tools
 
- <div>
+ <p align="left">
     <img src="img/coding.png" id="icon" height="40 width="40">
     <img src="img/html.png" id="icon" height="40 width="40">
     <img src="img/java-script.png" id="icon" height="40 width="40">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <img src="img/react.png" id="icon" height="40 width="40">
     <img src="img/file.png" id="icon" height="40 width="40">
     <img src="img/database.png" id="icon" height="40 width="40">
-  </div>
+  </p>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryanb021&theme=neon-dark)](https://git.io/streak-stats)
 
