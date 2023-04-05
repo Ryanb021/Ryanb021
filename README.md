@@ -36,17 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Skills and Tools
-  <div>
-    <img src="img/coding.png" id="icon">
-    <img src="img/html.png" id="icon">
-    <img src="img/java-script.png" id="icon">
-    <img src="img/html-5.png" id="icon">
-    <img src="img/css.png" id="icon">
-    <img src="img/nodejs.png" id="icon">
-    <img src="img/react.png" id="icon">
-    <img src="img/file.png" id="icon">
-    <img src="img/database.png" id="icon">
-  </div>
+https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryanb021&theme=neon-dark)](https://git.io/streak-stats)
 
