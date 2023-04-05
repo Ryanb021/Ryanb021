@@ -35,6 +35,19 @@ Here are some ideas to get you started:
 <a href="[your link](https://www.linkedin.com/in/ryan-bagan-51a366235/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
+## Skills and Tools
+  <div>
+    <img src="img/coding.png" id="icon">
+    <img src="img/html.png" id="icon">
+    <img src="img/java-script.png" id="icon">
+    <img src="img/html-5.png" id="icon">
+    <img src="img/css.png" id="icon">
+    <img src="img/nodejs.png" id="icon">
+    <img src="img/react.png" id="icon">
+    <img src="img/file.png" id="icon">
+    <img src="img/database.png" id="icon">
+  </div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryanb021&theme=neon-dark)](https://git.io/streak-stats)
 
 [![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanb021&theme=blue-green)](https://github.com/Ryanb021/github-readme-stats)
