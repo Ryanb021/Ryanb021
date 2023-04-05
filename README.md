@@ -36,6 +36,18 @@ Here are some ideas to get you started:
 </p>
 
 ## Skills and Tools
+
+ <div>
+    <img src="img/coding.png" id="icon" height="40 width="40">
+    <img src="img/html.png" id="icon" height="40 width="40">
+    <img src="img/java-script.png" id="icon" height="40 width="40">
+    <img src="img/html-5.png" id="icon" height="40 width="40">
+    <img src="img/css.png" id="icon" height="40 width="40">
+    <img src="img/nodejs.png" id="icon" height="40 width="40">
+    <img src="img/react.png" id="icon" height="40 width="40">
+    <img src="img/file.png" id="icon" height="40 width="40">
+    <img src="img/database.png" id="icon" height="40 width="40">
+  </div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryanb021&theme=neon-dark)](https://git.io/streak-stats)
 
