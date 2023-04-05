@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Skills and Tools
 
- <p align="left">
+ <p align="center">
     <img src="img/coding.png" id="icon" height="40 width="40">
     <img src="img/html.png" id="icon" height="40 width="40">
     <img src="img/java-script.png" id="icon" height="40 width="40">
