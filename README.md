@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <img src="img/database.png" id="icon" height="40 width="40">
   </p>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryanb021&theme=neon-dark)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryanb021&theme=neon-dark)](https://git.io/streak-stats)</p>
 
 [![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanb021&theme=blue-green)](https://github.com/Ryanb021/github-readme-stats)
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanb021&show_icons=true&theme=tokyonight)
