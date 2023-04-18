@@ -51,10 +51,9 @@ Here are some ideas to get you started:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryanb021&theme=neon-dark)](https://git.io/streak-stats)
 
-<!--
 [![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanb021&theme=blue-green)](https://github.com/Ryanb021/github-readme-stats)
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanb021&show_icons=true&theme=tokyonight)
 
-# My Blog Posts -->
+<!-- # My Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
