@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 [![Ryan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanb021&theme=blue-green)](https://github.com/Ryanb021/github-readme-stats)
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanb021&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryanb021)](https://github.com/Ryanb021/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryanb021&theme=onedark)](https://github.com/Ryanb021/github-profile-trophy)
