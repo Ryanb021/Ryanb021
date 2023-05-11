@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can hoop, I can sing, I play Tekken online. Let's spar!
 -->
 
-(![banner (2)](https://github.com/Ryanb021/Ryanb021/assets/120413183/634064d2-d239-4112-9ee9-642a8a5b6918)
+![banner (2)](https://github.com/Ryanb021/Ryanb021/assets/120413183/634064d2-d239-4112-9ee9-642a8a5b6918)
 
 
 <h3 align="center">Connect with me:</h3>
