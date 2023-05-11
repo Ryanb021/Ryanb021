@@ -1,4 +1,4 @@
-(![github-header-image](https://github.com/Ryanb021/Ryanb021/assets/120413183/bf4b09c5-cea9-4306-aa8f-ba1cda8e7a05))
+![github-header-image](https://github.com/Ryanb021/Ryanb021/assets/120413183/bf4b09c5-cea9-4306-aa8f-ba1cda8e7a05)
 
 ![Styles](https://komarev.com/ghpvc/?username=Ryanb021&label=PROFILE+VIEWS)
 
