@@ -11,7 +11,8 @@
 ### Let's be friends! 👋
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryan-bagan-dark-knight/)
-- 🌱 I’m currently learning NextJS, Blockchain Development using Solidity.
+- 🔭 I’m currently working on personal projects for my portfolio.
+- 🌱 I’m currently learning NextJS and Blockchain Development using Solidity.
 - ⚡ Fun fact: I can hoop, I can sing, I play Tekken online. Let's spar!
 <!--
 **Ryanb021/Ryanb021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
